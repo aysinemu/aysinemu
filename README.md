@@ -10,11 +10,9 @@ Hi 👋, I'm Cường(Sinemu)<br>I'm a student from HCMC University of Technolog
 # 📊 GitHub Stats:
 <table>
   <tr>
-    <td>![](https://github-readme-stats.vercel.app/api?username=aysinemu&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/></td>
-    <td>![](https://github-readme-streak-stats.herokuapp.com/?user=aysinemu&theme=rose&hide_border=false)<br/></td>
-  </tr>
-  <tr>
-    <td>![](https://github-readme-stats.vercel.app/api/top-langs/?username=aysinemu&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=aysinemu&theme=rose&hide_border=false&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aysinemu&theme=rose&hide_border=false"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysinemu&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></td>
   </tr>
 </table>
 
