@@ -1,7 +1,5 @@
-[![MasterHead]([https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges/modules/398083403](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg))]
 <h1 align="center">Hi 👋, I'm Cường(Sinemu)</h1>
 <h3 align="center">I'm a student from HCMC University of Technology and Education – HCMUTE</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fritsuka-code%3Fsort%3Drelevant&psig=AOvVaw0DW6blZePOGrCzY6JdRZzM&ust=1730906438702000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDjkI6_xYkDFQAAAAAdAAAAABAY)">
 
 - 🔭 I’m currently working on **Autonomous Vehicles**
 
