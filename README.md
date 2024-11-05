@@ -31,6 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysinemu&" alt="aysinemu" /></p>
 
-<p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aysinemu&theme=dracula&hide_border=true"/>
-</p>
+
