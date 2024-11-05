@@ -11,7 +11,7 @@ Hi 👋, I'm Cường(Sinemu)<br>I'm a student from HCMC University of Technolog
 <table border="5">
   <tr>
     <td><img width="100%" src="https://github-readme-stats.vercel.app/api?username=aysinemu&theme=rose&hide_border=false&include_all_commits=true&count_private=true" /></td>
-    <td><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aysinemu&theme=rose&hide_border=false"/></td>
+    <td><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aysinemu&theme=rose&hide_border=true"/></td>
   </tr>
 </table>
 
