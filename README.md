@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.figma.com%2Fcommunity%2Ffile%2F1367868717001251735%2Fcoding-banner&psig=AOvVaw0gD7oeZqwAs2Fiq9VC9ym5&ust=1730906357579000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIi0hOu-xYkDFQAAAAAdAAAAABAK))]
+[![MasterHead](https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges/modules/398083403)]
 <h1 align="center">Hi 👋, I'm Cường(Sinemu)</h1>
 <h3 align="center">I'm a student from HCMC University of Technology and Education – HCMUTE</h3>
 <img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fritsuka-code%3Fsort%3Drelevant&psig=AOvVaw0DW6blZePOGrCzY6JdRZzM&ust=1730906438702000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDjkI6_xYkDFQAAAAAdAAAAABAY)">
