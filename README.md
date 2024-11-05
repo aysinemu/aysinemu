@@ -11,6 +11,9 @@
 
 - ⚡ Fun fact **Love being alone**
 
+<details><summary>🏆 Github Trophies</summary>
+  <img src="https://github-profile-trophy.vercel.app/?username=aysinemu&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies"> 
+</details>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/asinemu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asinemu" height="30" width="40" /></a>
@@ -27,3 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aysinemu&show_icons=true&locale=en" alt="aysinemu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysinemu&" alt="aysinemu" /></p>
+
+<p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aysinemu&theme=dracula&hide_border=true"/>
+</p>
