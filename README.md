@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Cường(Sinemu)<br>I'm a student from HCMC University of Technology and Education – HCMUTE<br><br>🔭 I’m currently working on Autonomous Vehicles<br><br>🌱 I’m currently learning Machine Learning<br><br>👨‍💻 All of my projects are available at https://github.com/aysinemu?tab=repositories<br><br>📫 How to reach me asadayuukisinemuamv2@gmail.com<br><br>⚡ Fun fact Love being alone
+Hi 👋, I'm Cường(Sinemu)<br>I'm a student from HCMC University of Technology and Education – HCMUTE<br><br>🔭 I’m currently working on Autonomous Vehicles<br><br>🌱 I’m currently learning Machine Learning<br><br>👨‍💻 All of my projects are available at https://github.com/aysinemu?tab=repositories<br><br>📫 How to reach me asadayuukisinemuamv2@gmail.com<br><br>⚡ Fun fact Love Being Alone
 
 
 ## 🌐 Socials:
